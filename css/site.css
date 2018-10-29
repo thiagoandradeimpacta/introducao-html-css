@@ -113,7 +113,10 @@ main {
     float: left;
     padding-bottom: 80px;
 }
-
+.minha-foto{
+    height: 280px;
+    width: 280px
+}
 .minha-foto,
 .navegacao-site {
     border-left: 10px solid black;
